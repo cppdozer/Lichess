@@ -1,22 +1,23 @@
-## Welcome to GitHub Pages
+## Lichess Unofficial Desktop Application
 
-You can use the [editor on GitHub](https://github.com/cppdozer/Lichess/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Lichess , uzun yıllardır insanlara online satranç oynama imkanı sunan bir web sitesidir ancak bu köklü geçmişine rağmen hala masaüstü uygulaması yapılmamıştır hal böyle olunca dümene geçtim ve bu işi ben sırtladım.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Yazdığım uygulama Website Rendering dediğimiz coding teknolojisini kullanarak kodlanmıştır. Temelde JavaScript kodlarıyla birlikte C++ kodları bulunmaktadır.
 
-### Markdown
+### İşletim Sistemleri
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Şuanlık uygulama MacOS hariç tüm sistemlerde çalışmaktadır. Portable , Setup ve Debian paketleri release edilmiştir.
 
-```markdown
-Syntax highlighted code block
+Uygulamanın mevcut versiyonu v1.0'dır.
 
-# Header 1
-## Header 2
-### Header 3
+## Client'in geleceği
 
-- Bulleted
-- List
+İleride bu uygulamayı en popüler application store'larda deploy edilmiş şekilde bulabilirsiniz.
+
+- Windows Store
+- SnapCraft 
+- Ubuntu Software Center
+- Pardus Mağazası
 
 1. Numbered
 2. List
