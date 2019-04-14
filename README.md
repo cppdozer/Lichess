@@ -28,6 +28,7 @@ Uygulamanın mevcut versiyonu v1.0'dır.
 ## Previews 
 
 ![Ekran Görüntüsü (5)](https://user-images.githubusercontent.com/48297131/56095515-7c280f80-5ee6-11e9-803d-2ce032c5587e.png)
+![2019-04-14 19-37-41 ekran görüntüsü](https://user-images.githubusercontent.com/48297131/56096208-f8722100-5eed-11e9-824a-597a59636874.png)
 
 ------------------
 
