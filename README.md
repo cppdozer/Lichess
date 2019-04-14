@@ -26,6 +26,9 @@ Uygulamanın mevcut versiyonu v1.0'dır.
 - MacOS (.dmg) -> 
 
 ## Previews 
+
+![Ekran Görüntüsü (5)](https://user-images.githubusercontent.com/48297131/56095515-7c280f80-5ee6-11e9-803d-2ce032c5587e.png)
+
 ------------------
 
 - Coder : CppDozer
