@@ -1,0 +1,7 @@
+{
+  "dest": "./Installers",
+  "icon": "./Lichess.ico",
+  "tags": [
+    "Lichess"
+  ]
+}

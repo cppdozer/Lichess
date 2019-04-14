@@ -1,0 +1,25 @@
+{
+  "name": "Lichess",
+  "version": "1.0.0",
+  "description": "Lichess Unofficial Desktop Application",
+  "main": "Main.js",
+  "scripts": {
+    "package-win": "electron-packager . Lichess --overwrite --asar=true --platform=win32 --arch=x64 --icon=Lichess.ico --prune=true --version-string.CompanyName=Cppdozer Inc. --version-string.FileDescription=Lichess Unofficial Desktop Application --version-string.ProductName=\"Lichess",
+    "create-installer-win": "node createinstaller.js"
+  },
+  "keywords": [
+    "Lichess"
+  ],
+  "author": "CppDozer",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "electron": "^4.1.4",
+    "electron-installer-debian": "^1.1.1",
+    "electron-installer-windows": "^1.1.1",
+    "electron-packager": "^13.1.1",
+    "electron-titlebar-windows": "^3.0.0",
+    "electron-winstaller": "^3.0.4"
+  }
+}
