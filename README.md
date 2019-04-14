@@ -19,6 +19,13 @@ Uygulamanın mevcut versiyonu v1.0'dır.
 - Ubuntu Software Center
 - Pardus Mağazası
 
+#İndirmeler ( Downloads )
+
+- Windows (.exe) -> https://drive.google.com/file/d/1eJzxHwO7dNa2VI-r4Vlfgy7mOWWftRei/view
+- Linux (.deb) -> 
+- MacOS (.dmg) -> 
+
+
 ------------------
 
 - Coder : CppDozer
