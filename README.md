@@ -19,6 +19,7 @@ Uygulamanın mevcut versiyonu v1.0'dır.
 - Ubuntu Software Center
 - Pardus Mağazası
 
+------------------
 
-Coder : CppDozer
-Contact : agyolkaan5@gmail.com
+- Coder : CppDozer
+- Contact : agyolkaan5@gmail.com
