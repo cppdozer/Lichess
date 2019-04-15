@@ -21,9 +21,13 @@ Uygulamanın mevcut versiyonu v1.0'dır.
 
 ## Downloads ( İndirmeler )
 
-- Windows (.exe) -> https://drive.google.com/open?id=1lcMmW1rOgbJyqbUi83Q224nEl5payZS_
-- Linux (.deb) -> https://drive.google.com/open?id=1d3lQ5NvC3ROn0THfJZGwygJtsbUPeMCA
-- MacOS (.dmg) -> 
+- Windows (.exe) 
+    - 64 bit   -> https://drive.google.com/open?id=1lcMmW1rOgbJyqbUi83Q224nEl5payZS_
+    - 32 bit   ->
+- Linux (.deb) 
+    - amd64    -> https://drive.google.com/open?id=1d3lQ5NvC3ROn0THfJZGwygJtsbUPeMCA
+    - i368     -> 
+- MacOS (.dmg) 
 
 ## Previews 
 
