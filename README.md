@@ -21,7 +21,7 @@ Uygulamanın mevcut versiyonu v1.0'dır.
 
 ## Downloads ( İndirmeler )
 
-- Windows (.exe) -> https://drive.google.com/file/d/1eJzxHwO7dNa2VI-r4Vlfgy7mOWWftRei/view
+- Windows (.exe) -> https://drive.google.com/open?id=1lcMmW1rOgbJyqbUi83Q224nEl5payZS_
 - Linux (.deb) -> https://drive.google.com/open?id=1d3lQ5NvC3ROn0THfJZGwygJtsbUPeMCA
 - MacOS (.dmg) -> 
 
